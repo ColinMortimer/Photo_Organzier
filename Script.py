@@ -23,9 +23,3 @@ for file in glob.glob('*.jpg'):
     shutil.move(src, dst)
 
 print('Photo organizaton complete')
-    
-        
-    
-
-    
- 
